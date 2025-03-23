@@ -1,0 +1,3 @@
+[submodule "space-invaders-game"]
+	path = space-invaders-game
+	url = https://github.com/eyosiyas12345/space-invaders-game.git
