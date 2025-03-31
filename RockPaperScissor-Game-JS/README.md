@@ -242,8 +242,10 @@ Coming soon 🙄 working on it.....
 2, the player task is only to click one of the three options rock , paper or scissor <br>
 3, the computer automaticly pick its choice also from the three <br>
 4, if it maches: number of ties increase. <br>
-   if you are rock  vs computer is paper : number of losses increase <br>
-   if you are paper vs computer is rock : number of wins increase. <br>
-   continue at this staff.... <br>
+<pre>
+   if you are rock  vs computer is paper : number of losses increase 
+   if you are paper vs computer is rock : number of wins increase. 
+   continue at this staff.... 
+  </pre>
 5, At the time when the number of loses or wins reach 5 the player will lose or win respectively <br>
  
