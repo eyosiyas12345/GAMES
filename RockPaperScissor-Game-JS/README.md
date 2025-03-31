@@ -238,12 +238,12 @@ Coming soon 🙄 working on it.....
 
 ## Guidance to play
 
-1, press Autoplay to see how the game is played
-2, the player task is only to click one of the three options rock , paper or scissor
-3, the computer automaticly pick its choice also from the three
-4, if it maches: number of ties increase.
-   if you are rock  vs computer is paper : number of losses increase
-   if you are paper vs computer is rock : number of wins increase.
-   continue at this staff....
-5, At the time when the number of loses or wins reach 5 the player will lose or win respectively
+1, press Autoplay to see how the game is played <br>
+2, the player task is only to click one of the three options rock , paper or scissor <br>
+3, the computer automaticly pick its choice also from the three <br>
+4, if it maches: number of ties increase. <br>
+   if you are rock  vs computer is paper : number of losses increase <br>
+   if you are paper vs computer is rock : number of wins increase. <br>
+   continue at this staff.... <br>
+5, At the time when the number of loses or wins reach 5 the player will lose or win respectively <br>
  
