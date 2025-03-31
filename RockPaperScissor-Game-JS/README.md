@@ -1,4 +1,4 @@
-                                                                           # Rock Paper Scissor Game
+# <pre>                                                          Rock Paper Scissor Game</pre>
 
 This is my first game by javascript pushed on Feb12,2025.
 
